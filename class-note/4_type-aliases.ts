@@ -4,7 +4,7 @@ interface Person {
 }
 
 type Person1 = {
-    name: string;
+    name: string; 
     age: number;
 }
 
@@ -18,5 +18,5 @@ var hello: MyString = 'hello';
 
 type Todo = { id: string; title: string; done: boolean };
 function getTodo(tood: Todo) {
-    
+
 }
